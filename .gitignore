@@ -1,0 +1,5 @@
+VisionHomework4/train-images-idx3-ubyte.gz
+VisionHomework4/train-labels-idx1-ubyte.gz
+VisionHomework4/data_batch_1
+VisionHomework4/test_batch
+VisionHomework4/mnist.pkl.gz
